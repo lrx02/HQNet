@@ -67,8 +67,10 @@ python main.py
 
 ## Evaluation
 ```
-python main.py --test --load_from 'model_path/model.pkl'
+python main.py --test --load_from 'model_path/HQNet.pkl'
 ```
+https://drive.google.com/file/d/1BuXXAG4ABkpbiHP_61tPZ1vmsC1dGav7/view?usp=drive_link
+
 ## Qualitative results
 ![Qualitative](compared_result.jpg)
 
