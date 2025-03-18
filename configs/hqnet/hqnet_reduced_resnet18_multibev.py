@@ -3,7 +3,6 @@ detection_pattern = 'det2d'
 dataset_type = 'MultiBEV'
 dataset_type_cam = 'MultiBEV4CAM'
 dataset_type_sfm = 'MultiBEV4SFM'
-test_json_file = '../TuSimple/LaneDetection/test_label.json'
 cache_dir = "./cache"
 
 ori_img_w = 800
